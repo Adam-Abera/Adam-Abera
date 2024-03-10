@@ -1,6 +1,6 @@
 - 👋
 - Hi, I’m Adam
-- My interests are making desktop applications and games
+- My interests are making web apps, desktop applications and games
 - Currently learning Computer Engineering
 
 <!---
